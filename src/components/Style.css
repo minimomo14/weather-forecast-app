@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(215, 236, 236);
+    color: black;
+}
+
+.WeatherForecast {
+    border: solid rgb(12, 41, 12);
+    background-color: cadetblue;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.WeatherMap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
